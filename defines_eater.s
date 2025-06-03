@@ -34,8 +34,8 @@ USR				:= GORESTART ; XXX
 ; ; constants
 SPACE_FOR_GOSUB := $3E
 STACK_TOP		:= $FA
-WIDTH			:= 40
-WIDTH2			:= 30
+WIDTH			:= 80
+WIDTH2			:= 56
 
 RAMSTART2		:= $0400
 
